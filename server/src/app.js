@@ -12,5 +12,3 @@ app.use(logger);
 dbConnect();
 
 module.exports = app;
-
-// mongodb+srv://admin:Sy9Ap3Y32q6UKqt@cluster0.zac1n.mongodb.net/fincapcapstone?retryWrites=true&w=majority
